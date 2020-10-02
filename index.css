@@ -1,9 +1,13 @@
-body{
+body {
     background-color: lightgray;
 }
 
-div.container{
+div.container {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+label {
+    background-color: white;
 }
